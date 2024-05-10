@@ -8,7 +8,7 @@ export default [
     groupList: {
       '總召': ['atlassitcon'],
       'RB': ['bletchley13'],
-      '公關': [''],
+      '公關': ['freetsubasa'],
       '宣傳': ['Hsuanmoon'],
       '行政': ['leaftseng'],
       '議程': ['mag1karp'],
